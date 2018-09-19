@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Research assistant, 
+Simon Fraser University (SFU), 
+Vancouver Prostate Centre (VPC)
 ---
+Welcome to my website!
+My name is Hossein Sharifi-Noghabi. I was born and raised in a city named Mashhad, in northeast of Iran. I am currently a Ph.D. student in Computer Science at Simon Fraser University and Vancouver Prostate Centre. My main focus is to develop/apply state-of-the-art representation learning method-deep unsupervised learning and deep multi-task learning-in precision oncology. Specifically, I work on prostate cancer metastasis predicition, and anti-cancer drug response prediction.  
 
-My name is Inigo Montoya. I have the following qualities:
+### Education 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Ph.D. in Computer Science   Sep 2016-Present
+Simon Fraser University, Burnaby, BC, Canada. 
 
-What else do you need?
+M.Sc. in Artificial Intelligence ) Sep 2012-Feb 2015
+Ferdowsi University of Mashhad, Iran. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+B.E. in Information Technology  Sep 2008-July 2012 
+Sadjad University of Technology, Mashhad, Iran.
