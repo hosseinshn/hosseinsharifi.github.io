@@ -24,6 +24,7 @@ description: This is Hossein Sharifi's website!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Resume: "Resume"
   Resources:
     - Publications: "https://scholar.google.com/citations?user=9aw6MfUAAAAJ&hl=en"
     - Vancouver Coastal Health: "https://www.vchri.ca/researchers/hossein-sharifi-noghabi"
