@@ -17,7 +17,7 @@ baseurl: ""
 title: Hossein Sharifi-Noghabi
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: This is Hossein Sharifi's website!
 
 # --- Navigation bar options --- #
 
@@ -25,14 +25,16 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Publications: "https://scholar.google.com/citations?user=9aw6MfUAAAAJ&hl=en"
+    - LinkedIn: "https://ca.linkedin.com/in/hossein-sharifi-noghabi-b6953b5b"
+    - GitHub: "https://hosseinshn.github.com/"
+    - Twitter: "https://twitter.com/Hossein_SHN"
+    - Vancouver Coastal Health: "https://www.vchri.ca/researchers/hossein-sharifi-noghabi"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/gitphoto.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
