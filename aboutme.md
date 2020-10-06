@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Research assistant, 
+title: About Me
+subtitle: Research Assistant, 
 Simon Fraser University (SFU), 
 Vancouver Prostate Centre (VPC)
 ---
