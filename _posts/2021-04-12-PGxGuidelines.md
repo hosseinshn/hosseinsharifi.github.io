@@ -12,4 +12,4 @@ We also investigate the impact of hematopoietic tissues on training machine lear
 
 Draft is available here: https://www.biorxiv.org/content/10.1101/2021.04.09.439076v2.abstract
 
-Update: PGx Guidelines got accepted in Briefings in Bioinformatics!! 
+Update: PGx Guidelines got accepted in Briefings in Bioinformatics!! You can read the final paper here: https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab294/6348324?redirectedFrom=fulltext 
