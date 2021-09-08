@@ -24,5 +24,5 @@ Ph.D. in Computer Science, Sep 2016-Aug 2021
 M.Sc. in Artificial Intelligence, Sep 2012-Feb 2015
   - Ferdowsi University of Mashhad, Iran. 
 
-B.E. in Information Technology, Sep 2008-Jul 2012 
+B.E. in Information Technology, Sep 2008-Aug 2012 
   - Sadjad University of Technology (former Sadjad Institute of Higher Education), Mashhad, Iran.
