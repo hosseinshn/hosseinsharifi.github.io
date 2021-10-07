@@ -6,7 +6,7 @@ Novartis,
 PhD in Computer Science
 ---
 Welcome to my website!
-My name is Hossein Sharifi-Noghabi. I was born and raised in a city named Mashhad, in northeast of Iran. I received my Ph.D. student in Computer Science at Simon Fraser University and Vancouver Prostate Centre in 2021. My main focus is to develop/apply state-of-the-art representation learning method - transfer learning, adversarial learning, multi-task learning, and domain generalization - to biomedical and healthcare challenges. I specifically worked on precision oncology and pharmacogenomics during my PhD. 
+My name is Hossein Sharifi-Noghabi. I was born and raised in a city named Mashhad, in northeast of Iran. I received my Ph.D. student in Computer Science at Simon Fraser University and Vancouver Prostate Centre in 2021. My main focus is to develop/apply state-of-the-art representation learning methods - transfer learning, adversarial learning, multi-task learning, and domain generalization - to biomedical and healthcare challenges. I specifically worked on precision oncology and pharmacogenomics during my PhD. 
 
 ### Employment 
 
