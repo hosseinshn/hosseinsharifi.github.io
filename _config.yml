@@ -29,8 +29,9 @@ navbar-links:
     - CV: "Hossein_Sharifi_Noghabi_CVL.pdf"
   Resources:
     - Publications: "https://scholar.google.com/citations?user=9aw6MfUAAAAJ&hl=en"
-    - Vancouver Coastal Health: "https://www.vchri.ca/researchers/hossein-sharifi-noghabi"
-    - Goodreads: "https://www.goodreads.com/user/show/85376575-hossein-sharifi-n"
+    - VanBug talk (2020): "http://www.vanbug.org/2020/matt-pennell/"
+    - ISMB talk (2020): "https://www.youtube.com/watch?v=Hw3TzSHHM0Q"
+    - Mayo Clinic talk (2021): "https://individualizingmedicineconference.mayo.edu/artificialintelligence.php"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
