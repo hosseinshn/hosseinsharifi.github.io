@@ -11,14 +11,14 @@ My name is Hossein Sharifi-Noghabi. I was born and raised in a city named Mashha
 ### Employment 
 
 AI4Life Resident, Sep 2021-Sep 2022
-  - Novartis, Basel, Switzerland.  
+  - Data42 Team, Novartis (Basel, Switzerland).  
 
 Admin Support (Research), June 2020-May 2021 
-  - Princess Margarent Cancer Centre, University Health Network, Toronto, ON, Canada. 
+  - Princess Margarent Cancer Centre, University Health Network (Toronto, Canada). 
 
 ### Education 
 
-Ph.D. in Computer Science, Sep 2016-Aug 2021
+Ph.D. in Computer Science, Sep 2016-Sep 2021
   - Simon Fraser University, Burnaby, BC, Canada. 
 
 M.Sc. in Artificial Intelligence, Sep 2012-Feb 2015
