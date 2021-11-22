@@ -24,9 +24,7 @@ description: This is Hossein Sharifi's website!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume/CV: 
-    - Resume: "Hossein_Sharifi_N__Resume.pdf"
-    - CV: "Hossein_Sharifi_Noghabi_CVL.pdf"
+  Resume: "Hossein_Sharifi_N__Resume.pdf"
   Resources:
     - Publications: "https://scholar.google.com/citations?user=9aw6MfUAAAAJ&hl=en"
     - VanBug talk (2020): "http://www.vanbug.org/2020/matt-pennell/"
