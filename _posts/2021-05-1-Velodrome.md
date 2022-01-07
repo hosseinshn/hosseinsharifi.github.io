@@ -12,3 +12,5 @@ Our experimental results on cell lines, PDX samples, and clinical trial data sug
 Draft: https://www.biorxiv.org/content/10.1101/2021.05.25.445658v3.abstract
 
 Code and data: https://github.com/hosseinshn/Velodrome
+
+November 2021 UPDATE! Velodrome is now published in Nature Machine Intelligence: https://www.nature.com/articles/s42256-021-00408-w
